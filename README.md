@@ -20,4 +20,4 @@
 | # | Sessions | keywords |
 |:-:|:-:|:-:|
 | 1 | Code cells 😽 | [variavble, assign](https://github.com/sung22/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
-| 2 | FiveTypesofData 😃 | [number, string, list, tuple, dictionary](https://github.com/sung22/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
+| 2 | Five Types of Data 😃 | [number, string, list, tuple, dictionary](https://github.com/sung22/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
