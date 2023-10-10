@@ -24,6 +24,6 @@
 | 3 | Indexing Slicing | (https://github.com/sung22/NLP_2023/blob/main/3_Indexing_Slicing.ipynb) |
 | 4_1 | IfStatement | (https://github.com/sung22/NLP_2023/blob/main/4_1_IfStatement.ipynb) |
 | 4_2 | ForStatement | (https://github.com/sung22/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
-| 4_3 | tryExceptElse Statement | (https://github.com/sung22/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb) |
+| 4_3 | tryExceptElse Statement | [try ~ except ~ else/finally](https://github.com/sung22/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb) |
 | 4_4 | WhileStatementwContinueBreak | (https://github.com/sung22/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb) |
 | 5 | RegularExpression | (https://github.com/sung22/NLP_2023/blob/main/5_RegularExpression.ipynb) |
