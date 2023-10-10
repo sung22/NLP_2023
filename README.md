@@ -21,3 +21,7 @@
 |:-:|:-:|:-:|
 | 1 | Code cells 😽 | [variavble, assign](https://github.com/sung22/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
 | 2 | Five Types of Data 😃 | [number, string, list, tuple, dictionary](https://github.com/sung22/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
+| 3 | Indexing Slicing | (https://github.com/sung22/NLP_2023/blob/main/3_Indexing_Slicing.ipynb) |
+| 4_1 | IfStatement | (https://github.com/sung22/NLP_2023/blob/main/4_1_IfStatement.ipynb) |
+| 4_2 | ForStatement | (https://github.com/sung22/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
+| 4_2 | ForStatement | (https://github.com/sung22/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
