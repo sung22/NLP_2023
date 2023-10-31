@@ -28,3 +28,4 @@
 | 4_4 | WhileStatementwContinueBreak | [while~:](https://github.com/sung22/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb) |
 | 5 | RegularExpression | [re, meta characters](https://github.com/sung22/NLP_2023/blob/main/5_RegularExpression_Revised.ipynb) |
 | 6 | DefiningFunctions | [function, factor](https://github.com/sung22/NLP_2023/blob/main/6_DefiningFunctions.ipynb) |
+| 7 | Class Method Member Object | [class, method, member](https://github.com/sung22/NLP_2023/blob/main/7_Class_Method_Member_Object.ipynb) |
