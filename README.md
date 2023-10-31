@@ -21,10 +21,10 @@
 |:-:|:-:|:-:|
 | 1 | Code cells 😽 | [variavble, assign](https://github.com/sung22/NLP_2023/blob/main/1_CodeCells_Basic.ipynb) |
 | 2 | Five Types of Data 😃 | [number, string, list, tuple, dictionary](https://github.com/sung22/NLP_2023/blob/main/2_FiveTypesofData.ipynb) |
-| 3 | Indexing Slicing | (https://github.com/sung22/NLP_2023/blob/main/3_Indexing_Slicing.ipynb) |
-| 4_1 | IfStatement | (https://github.com/sung22/NLP_2023/blob/main/4_1_IfStatement.ipynb) |
-| 4_2 | ForStatement | (https://github.com/sung22/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
+| 3 | Indexing Slicing | [:, forward, backward, link +, repeat *, length len()](https://github.com/sung22/NLP_2023/blob/main/3_Indexing_Slicing.ipynb) |
+| 4_1 | IfStatement | [if ~:](https://github.com/sung22/NLP_2023/blob/main/4_1_IfStatement.ipynb) |
+| 4_2 | ForStatement | [ for ~:](https://github.com/sung22/NLP_2023/blob/main/4_2_ForStatement.ipynb) |
 | 4_3 | tryExceptElse Statement | [try ~ except ~ else/finally](https://github.com/sung22/NLP_2023/blob/main/4_3_tryExceptElse_Statement.ipynb) |
-| 4_4 | WhileStatementwContinueBreak | (https://github.com/sung22/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb) |
-| 5 | RegularExpression | (https://github.com/sung22/NLP_2023/blob/main/5_RegularExpression_Revised.ipynb) |
-| 6 | DefiningFunctions | (https://github.com/sung22/NLP_2023/blob/main/6_DefiningFunctions.ipynb) |
+| 4_4 | WhileStatementwContinueBreak | [while~:](https://github.com/sung22/NLP_2023/blob/main/4_4_WhileStatementwContinueBreak.ipynb) |
+| 5 | RegularExpression | [re, meta characters](https://github.com/sung22/NLP_2023/blob/main/5_RegularExpression_Revised.ipynb) |
+| 6 | DefiningFunctions | [function, factor](https://github.com/sung22/NLP_2023/blob/main/6_DefiningFunctions.ipynb) |
