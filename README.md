@@ -29,3 +29,7 @@
 | 5 | RegularExpression | [re, meta characters](https://github.com/sung22/NLP_2023/blob/main/5_RegularExpression_Revised.ipynb) |
 | 6 | DefiningFunctions | [function, factor](https://github.com/sung22/NLP_2023/blob/main/6_DefiningFunctions.ipynb) |
 | 7 | Class Method Member Object | [class, method, member](https://github.com/sung22/NLP_2023/blob/main/7_Class_Method_Member_Object.ipynb) |
+| 8 | ReadTxtFilesImportingfrom | [txt, html]([https://github.com/sung22/NLP_2023/blob/main/8_ReadTxtFilesImportingfrom_html.ipynb]) |
+| 9 | InstallPackages_ImportModlues_CallFunctions_chatGPT | ([https://github.com/sung22/NLP_2023/blob/main/9_InstallPackages_ImportModlues_CallFunctions_chatGPT.ipynb]) |
+| 9_1 | InstallPackages_ImportModlues_CallFunctions_chatGPT | ([https://github.com/sung22/NLP_2023/blob/main/9_1_InstallPackages_ImportModlues_CallFunctions_chatGPT.ipynb]) |
+| 10 | Tokenization_VariousWays | ([[https://github.com/sung22/NLP_2023/blob/main/10_Tokenization_VariousWays.ipynb]) |
